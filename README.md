@@ -13,3 +13,6 @@ Server Folder RUN ON VPS
 Core Is A Dll Which Is Used In The Client Folder
 Client IS Used For The User (Main Loader)
 Please Obfuscate Cor Dll And Client Exe
+
+Credits To
+@TrinityNET
